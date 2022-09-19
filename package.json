@@ -1,0 +1,20 @@
+{
+  "name": "@efleurine/simple-npm-package",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efleurine/simple-npm-package.git"
+  },
+  "keywords": [],
+  "author": "Emmanuel Fleurine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efleurine/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/efleurine/simple-npm-package#readme"
+}
